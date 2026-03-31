@@ -6,3 +6,6 @@ A ver si logro hacer un commit, push desde github y luego un pull en git.
 
 
 Ahora estoy haciendo lo mismo que antes pero desde git hacia github
+
+
+Como saber si esto lo edité en branch o en main
